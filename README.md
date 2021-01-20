@@ -2,7 +2,7 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=chishige1217200&count_private=true&show_icons=true" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chishige1217200",hide TeX />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chishige1217200"hide TeX />
 </a>
 
 <!--
